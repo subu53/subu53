@@ -25,7 +25,17 @@ Based in Nairobi, Kenya 🇰🇪 | Open to Senior AI/Data Roles & Technical Co-F
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack & Core Competencies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
 - **Languages**: Python, SQL, R, TypeScript, JavaScript, HTML5/CSS3
 - **AI & Machine Learning**: PyTorch, TensorFlow, Scikit-learn, OpenCV, EfficientNet, LLM Agents (Claude, OpenAI)
@@ -48,12 +58,10 @@ Based in Nairobi, Kenya 🇰🇪 | Open to Senior AI/Data Roles & Technical Co-F
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subu53&show_icons=true&theme=dark" alt="Sam Subu GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subu53&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=subu53&theme=dark&background=0D1117&border=161B22&stroke=58A6FF&ring=1F6FEB&fire=FF7B72&currStreakNum=58A6FF&sideNums=58A6FF&sideTitle=8B949E&dates=8B949E" alt="Sam Subu GitHub Streak Stats" />
 </p>
 
 ---
