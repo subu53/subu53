@@ -18,8 +18,8 @@ Based in Nairobi, Kenya 🇰🇪 | Open to Senior AI/Data Roles & Technical Co-F
 │ 🏥 Lung Cancer AI v2 | Production Medical Vision App                             │
 │ EfficientNet-B0 + Grad-CAM CT scan classification with interpretable heatmaps.  │
 ├──────────────────────────────────────────────────────────────────────────────────┤
-│ 🌐 Agent-Reach | Open Web Scraper & Intelligence CLI                             │
-│ Zero-API-fee internet search & monitoring across Twitter, Reddit, YouTube, GitHub│
+│ 🫁 Deep Learning Chest X-Ray AI | Pneumonia Diagnostic Classifier                │
+│ CNN & ResNet transfer learning model for chest X-ray disease classification.     │
 └──────────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -42,7 +42,7 @@ Based in Nairobi, Kenya 🇰🇪 | Open to Senior AI/Data Roles & Technical Co-F
 | 🚀 [**Project Armageddon**](https://github.com/subu53/project-armageddon) | Python, SQLite, Jinja2 | Autonomous multi-source remote job scraper, matcher, and direct email engine |
 | 🤖 [**WhatsApp Sales Agent**](https://github.com/subu53/whatsapp-sales-agent) | FastAPI, Claude, BM25, Twilio | RAG sales agent for instant WhatsApp customer conversion |
 | 🏥 [**Lung Cancer AI v2**](https://github.com/subu53/lungcanceraiv2) | TypeScript, EfficientNet-B0 | CT scan diagnostic application with Grad-CAM heatmaps |
-| 🌐 [**Agent-Reach**](https://github.com/subu53/Agent-Reach) | Python, CLI | Internet search & social scraping CLI for AI agent context |
+| 🫁 [**Chest X-Ray Pneumonia AI**](https://github.com/subu53/Deep_learning_chest_xray_pneumonia) | Python, PyTorch, ResNet | CNN transfer learning for pulmonary disease classification |
 | 📊 [**Telco Customer Churn**](https://github.com/subu53/Telco-Customer-Churn-Prediction) | Python, Scikit-Learn, ML | Predictive analytics for customer retention in telecommunications |
 | 💳 [**Financial Health Prediction**](https://github.com/subu53/dataorg-financial-health-prediction) | Python, ML, Pandas | Socio-economic Financial Health Index (FHI) forecasting model |
 
